@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson7_HomeWork3</string>
+    <string name="center_text">Center Text. Used MyStyle</string>
+    <string name="centerbuttontext">Center Button Used MyStyle.Bold</string>
+    <string name="top_text">Styles Lesson. Default (+ NoCaps)</string>
+    <string name="second_text">SecondText. Used MyStyle.Bold</string>
+    <string name="BottomButton">Default Button Style (+ NoCaps)</string>
+</resources>
